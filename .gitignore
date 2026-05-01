@@ -1,3 +1,5 @@
 .venv/
 */.venv/
 .venv/*
+.env
+#6_temp.py
